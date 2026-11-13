@@ -40,7 +40,7 @@ Computer science graduate focused on SIEM detection engineering, log analysis, c
 
 ## More Projects
 
-- [File Integrity Monitor](https://github.com/michaelwolfcyber/file-integrity-monitor) · [Port Scanner](https://github.com/michaelwolfcyber/port-scanner) · [Password Strength Checker](https://github.com/michaelwolfcyber/password-strength-checker)
+- [File Integrity Monitor](https://github.com/michaelwolfcyber/file-integrity-monitor) · [SniffSnorf — Rust Port Scanner](https://github.com/michaelwolfcyber/SniffSnorf) · [Fenrir — Password Hash Cracker](https://github.com/michaelwolfcyber/Fenrir)
 - [UCSAT](https://github.com/michaelwolfcyber/UCSAT-UnitCommunicationsSecurityAssessmentTool-) · [Shelf](https://github.com/michaelwolfcyber/shelf)
 
 ## Education & Certifications
@@ -51,7 +51,7 @@ Computer science graduate focused on SIEM detection engineering, log analysis, c
 - **In progress:** CompTIA Security+
 - **Planned:** AWS Cloud Practitioner, CompTIA CySA+
 
-[Certification roadmap](https://github.com/michaelwolfcyber/cybersecurity-certifications)
+[Certification and education roadmap](https://github.com/michaelwolfcyber/certifications)
 
 ## Contact
 
