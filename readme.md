@@ -48,7 +48,8 @@ Computer science graduate focused on SIEM detection engineering, log analysis, c
 - **B.S. Computer Science** — completed
 - **Completed:** ITIL 4 Foundation, LPI Linux Essentials, Google Data Analytics
 - **In progress:** CompTIA Security+
-- **Planned:** AWS Cloud Practitioner, CompTIA CySA+
+- **Included in the WGU M.S. program pathway:** CompTIA CySA+, CompTIA PenTest+
+- **Also planned:** AWS Cloud Practitioner
 
 [Certification and education roadmap](https://github.com/michaelwolfcyber/certifications)
 
