@@ -2,7 +2,7 @@
 
 # Michael Wolf 🐺
 
-**Cybersecurity | M.S. in Progress | Detection Engineering & Security Automation | Soldier**
+**Cybersecurity | Incoming M.S. Cybersecurity & Information Assurance (December 2026) | Detection Engineering & Security Automation | Army National Guard**
 
 Building practical security tooling, detection logic, and automation for defensive cybersecurity.
 
@@ -28,7 +28,7 @@ Computer science graduate focused on SIEM detection engineering, log analysis, c
 | --- | --- |
 | [HDFS Log Anomaly Detection](https://github.com/michaelwolfcyber/hdfs-log-anomaly-detection) | Random Forest achieved 0.9988 anomalous-class F1 on 575,061 HDFS log records |
 | [CloudTrail Anomaly Alerter](https://github.com/michaelwolfcyber/cloudtrail-anomaly-alerter) | AWS serverless detection, MITRE ATT&CK mapping, and SNS alerts |
-| [Cybersecurity Homelab](https://github.com/michaelwolfcyber/lobo-homelab) | Proxmox, Wazuh, GOAD Active Directory lab, and custom detection rules |
+| [Cybersecurity Homelab](https://github.com/michaelwolfcyber/lobo-homelab) | Proxmox, Nextcloud, LUKS-encrypted storage, and a segmented virtual lab network |
 | [SniffSnorf](https://github.com/michaelwolfcyber/SniffSnorf) | Rust async port scanner with risk explanations and ATT&CK mapping |
 
 ## Skills
@@ -45,7 +45,7 @@ Computer science graduate focused on SIEM detection engineering, log analysis, c
 
 ## Education & Certifications
 
-- **M.S. Cybersecurity** — starting
+- **M.S. Cybersecurity and Information Assurance — WGU** — incoming December 2026
 - **B.S. Computer Science** — completed
 - **Completed:** ITIL 4 Foundation, LPI Linux Essentials, Google Data Analytics
 - **In progress:** CompTIA Security+
