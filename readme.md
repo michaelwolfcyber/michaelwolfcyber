@@ -2,7 +2,7 @@
 
 # Michael Wolf 🐺
 
-**Cybersecurity | Incoming M.S. Cybersecurity & Information Assurance (December 2026) | Detection Engineering & Security Automation | Army National Guard**
+**Cybersecurity | Incoming M.S. Cybersecurity & Information Assurance (December 2026) | Detection Engineering | Army**
 
 Building practical security tooling, detection logic, and automation for defensive cybersecurity.
 
@@ -33,14 +33,14 @@ Computer science graduate focused on SIEM detection engineering, log analysis, c
 
 ## Skills
 
-- **Security:** Wazuh, MITRE ATT&CK, Nmap, Wireshark, CloudTrail analysis, OWASP Top 10
+- **Security:** MITRE ATT&CK, Nmap, Wireshark, CloudTrail analysis, OWASP Top 10
 - **Programming:** Python, Rust, Java, C++, Bash, SQL, JavaScript
 - **Systems & Cloud:** Linux, Proxmox, Docker, AWS Lambda, SAM, SNS
 - **Development & Data:** Git, REST APIs, Spring Boot, MySQL, scikit-learn, pandas
 
 ## More Projects
 
-- [File Integrity Monitor](https://github.com/michaelwolfcyber/file-integrity-monitor) · [SniffSnorf — Rust Port Scanner](https://github.com/michaelwolfcyber/SniffSnorf) · [Fenrir — Password Hash Cracker](https://github.com/michaelwolfcyber/Fenrir)
+- [File Integrity Monitor](https://github.com/michaelwolfcyber/file-integrity-monitor) · [Fenrir — Password Hash Cracker](https://github.com/michaelwolfcyber/Fenrir)
 - [UCSAT](https://github.com/michaelwolfcyber/UCSAT-UnitCommunicationsSecurityAssessmentTool-) · [Shelf](https://github.com/michaelwolfcyber/shelf)
 
 ## Education & Certifications
