@@ -1,4 +1,4 @@
-# Hi, I'm Michael Wolf Scherwitz 👋
+# Hi, I'm Wolf 👋
 
 **Computer Science Graduate | M.S. Cybersecurity Student | Army National Guard**
 
