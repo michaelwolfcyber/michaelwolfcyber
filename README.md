@@ -2,9 +2,9 @@
 
 # Michael Wolf 🐺
 
-**Army National Guard | Computer Science Graduate | Incoming M.S. Cybersecurity & Information Assurance — December 2026**
+**Cybersecurity | Computer Science Graduate | M.S. Cybersecurity & Information Assurance (December 2026) | Detection Engineering**
 
-Building practical security tools, detection logic, and automation. Interested in technical problem-solving, mission-focused teamwork, and continued growth as a Soldier and cybersecurity professional.
+Building practical security tools, detection logic, and automation for defensive cybersecurity.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -19,26 +19,24 @@ Building practical security tools, detection logic, and automation. Interested i
 
 ## About
 
-I am a Computer Science graduate and Oklahoma Army National Guard Soldier pursuing a career at the intersection of technology, cybersecurity, and service. My technical interests include SIEM detection engineering, log analysis, cloud security monitoring, and secure software development.
+Computer Science graduate focused on SIEM detection engineering, log analysis, cloud security monitoring, and secure software development. I enjoy turning complex technical problems into practical solutions through software projects, data analysis, and hands-on infrastructure work.
 
-I enjoy turning complex problems into practical solutions: building security tools, analyzing large datasets, and maintaining a hands-on homelab. Military service continues to develop the habits I value in technical work: accountability, adaptability, teamwork, and disciplined execution.
-
-I am committed to continuous learning and to applying my skills responsibly. Security testing is limited to systems and environments where I have explicit authorization.
+I am continuing my education with an M.S. in Cybersecurity and Information Assurance at Western Governors University. I value clear communication, analytical thinking, accountability, and continuous improvement. Security testing is limited to systems and environments where I have explicit authorization.
 
 ## Featured Projects
 
-| Project | What it demonstrates |
+| Project | Highlights |
 | --- | --- |
-| [HDFS Log Anomaly Detection](https://github.com/michaelwolfcyber/hdfs-log-anomaly-detection) | Applied machine learning to 575,061 HDFS log records; Random Forest achieved 0.9988 anomalous-class F1 |
-| [CloudTrail Anomaly Alerter](https://github.com/michaelwolfcyber/cloudtrail-anomaly-alerter) | AWS serverless security monitoring, MITRE ATT&CK mapping, and SNS alerting |
-| [Cybersecurity Homelab](https://github.com/michaelwolfcyber/lobo-homelab) | Proxmox infrastructure, Nextcloud, LUKS-encrypted storage, and a segmented virtual lab network |
-| [SniffSnorf](https://github.com/michaelwolfcyber/SniffSnorf) | Asynchronous Rust port scanner with service-risk explanations and MITRE ATT&CK mapping |
+| [HDFS Log Anomaly Detection](https://github.com/michaelwolfcyber/hdfs-log-anomaly-detection) | Random Forest achieved 0.9988 anomalous-class F1 on 575,061 HDFS log records |
+| [CloudTrail Anomaly Alerter](https://github.com/michaelwolfcyber/cloudtrail-anomaly-alerter) | AWS serverless detection, MITRE ATT&CK mapping, and SNS alerts |
+| [Cybersecurity Homelab](https://github.com/michaelwolfcyber/lobo-homelab) | Proxmox, Nextcloud, LUKS-encrypted storage, and a segmented virtual lab network |
+| [SniffSnorf](https://github.com/michaelwolfcyber/SniffSnorf) | Rust async port scanner with risk explanations and ATT&CK mapping |
 
-## Technical Skills
+## Skills
 
-- **Security & Detection:** SIEM concepts, MITRE ATT&CK, Nmap, Wireshark, CloudTrail analysis, OWASP Top 10
-- **Programming & Automation:** Python, Rust, Java, C++, Bash, SQL, JavaScript
-- **Systems & Cloud:** Linux, Proxmox, Docker, AWS Lambda, AWS SAM, SNS
+- **Security:** MITRE ATT&CK, Nmap, Wireshark, CloudTrail analysis, OWASP Top 10
+- **Programming:** Python, Rust, Java, C++, Bash, SQL, JavaScript
+- **Systems & Cloud:** Linux, Proxmox, Docker, AWS Lambda, SAM, SNS
 - **Development & Data:** Git, REST APIs, Spring Boot, MySQL, scikit-learn, pandas
 
 ## More Projects
@@ -46,20 +44,14 @@ I am committed to continuous learning and to applying my skills responsibly. Sec
 - [File Integrity Monitor](https://github.com/michaelwolfcyber/file-integrity-monitor) · [Fenrir — Password Hash Cracker](https://github.com/michaelwolfcyber/Fenrir)
 - [UCSAT](https://github.com/michaelwolfcyber/UCSAT-UnitCommunicationsSecurityAssessmentTool-) · [Shelf](https://github.com/michaelwolfcyber/shelf)
 
-## Military Service & Professional Development
-
-Serving in the **Oklahoma Army National Guard** while continuing to develop as a technical professional. I value accountability, teamwork, adaptability, and a willingness to learn—qualities I aim to bring to every team and mission.
-
-My long-term interests include Army leadership, cybersecurity operations, and roles where technical judgment and mission requirements meet.
-
 ## Education & Certifications
 
-- **M.S. Cybersecurity and Information Assurance — Western Governors University** — starting December 2026
+- **M.S. Cybersecurity and Information Assurance — WGU** — starting December 2026
 - **B.S. Computer Science** — completed
-- **Completed certifications:** ITIL 4 Foundation, LPI Linux Essentials, Google Data Analytics
+- **Completed:** ITIL 4 Foundation, LPI Linux Essentials, Google Data Analytics
 - **In progress:** CompTIA Security+
-- **Included in M.S. program pathway:** CompTIA CySA+, CompTIA PenTest+
-- **Planned:** AWS Cloud Practitioner
+- **Included in the WGU M.S. program pathway:** CompTIA CySA+, CompTIA PenTest+
+- **Also planned:** AWS Cloud Practitioner
 
 [Certification and education roadmap](https://github.com/michaelwolfcyber/certifications)
 
